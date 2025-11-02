@@ -1,0 +1,7 @@
+torch>=2.5.0
+torchvision>=0.20.0
+transformers>=4.44.0
+streamlit>=1.38.0
+Pillow
+numpy<2.0
+timm

@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+vit_food41/*.pth filter=lfs diff=lfs merge=lfs -text
